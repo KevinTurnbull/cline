@@ -2,8 +2,6 @@
 
 ## 3.17.8
 
-### Patch Changes
-
 -   9818d97: Refatored system prompt with switch capabilities
 -   9818d97: System prompt switching for Claude4 models
 
