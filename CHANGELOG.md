@@ -1,5 +1,12 @@
 # Changelog
 
+## 3.17.8
+
+### Patch Changes
+
+-   9818d97: Refatored system prompt with switch capabilities
+-   9818d97: System prompt switching for Claude4 models
+
 ## [3.17.7]
 
 -   Fix diff editing reliability for Claude 4 family models by adding constraints to prevent errors with large replacements
